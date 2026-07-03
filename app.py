@@ -114,6 +114,4 @@ for box, group in zip(cols, groups):
 
 # ---- 7. NEXT STEPS ---------------------------------------------------------
 st.divider()
-st.info("Each month = one refresh: re-run the numbers and ADD rows with the new 'period'. "
-        "The dashboard then compares the latest month to the one before automatically. "
-        "Swap the sample for the real table (same columns), then deploy to Render.")
+
